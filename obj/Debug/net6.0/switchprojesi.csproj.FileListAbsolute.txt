@@ -1,0 +1,15 @@
+C:\Users\Burak\Documents\GitHub\switchprojesi\bin\Debug\net6.0\switchprojesi.exe
+C:\Users\Burak\Documents\GitHub\switchprojesi\bin\Debug\net6.0\switchprojesi.deps.json
+C:\Users\Burak\Documents\GitHub\switchprojesi\bin\Debug\net6.0\switchprojesi.runtimeconfig.json
+C:\Users\Burak\Documents\GitHub\switchprojesi\bin\Debug\net6.0\switchprojesi.dll
+C:\Users\Burak\Documents\GitHub\switchprojesi\bin\Debug\net6.0\switchprojesi.pdb
+C:\Users\Burak\Documents\GitHub\switchprojesi\obj\Debug\net6.0\switchprojesi.csproj.AssemblyReference.cache
+C:\Users\Burak\Documents\GitHub\switchprojesi\obj\Debug\net6.0\switchprojesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Documents\GitHub\switchprojesi\obj\Debug\net6.0\switchprojesi.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\GitHub\switchprojesi\obj\Debug\net6.0\switchprojesi.AssemblyInfo.cs
+C:\Users\Burak\Documents\GitHub\switchprojesi\obj\Debug\net6.0\switchprojesi.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Documents\GitHub\switchprojesi\obj\Debug\net6.0\switchprojesi.dll
+C:\Users\Burak\Documents\GitHub\switchprojesi\obj\Debug\net6.0\refint\switchprojesi.dll
+C:\Users\Burak\Documents\GitHub\switchprojesi\obj\Debug\net6.0\switchprojesi.pdb
+C:\Users\Burak\Documents\GitHub\switchprojesi\obj\Debug\net6.0\switchprojesi.genruntimeconfig.cache
+C:\Users\Burak\Documents\GitHub\switchprojesi\obj\Debug\net6.0\ref\switchprojesi.dll
